@@ -1,0 +1,65 @@
+LIST PILIHAN MATA KULIAH YANG INGIN DIAMBIL
+
+Isi dengan format berikut:
+Nama Mata Kuliah
+Kelas
+Jadwal 1
+Jadwal 2
+dst
+
+Contoh pengisian jadwal:
+Senin 13 14
+Selasa 14 16
+
+Note: Jangan menghapus petunjuk ini
+
+*
+Matdis 
+K2 
+Senin 13 15
+Rabu 13 14
+*
+Matdis 
+K1 
+Selasa 13 14
+Rabu 13 15
+*
+Matdis 
+K3 
+Senin 11 13
+Selasa 12 13
+*
+Algeo 
+K2
+Senin 15 16
+Selasa 11 13
+*
+Algeo 
+K1
+Senin 14 15
+Rabu 14 16
+*
+Alstrukdat
+K1
+Rabu 13 15
+Kamis 11 13
+*
+Alstrukdat
+K2
+Selasa 12 14
+Kamis 12 14
+*
+Lokom
+K2
+Kamis 14 16
+*
+TBFO
+K2
+Rabu 11 12
+Jumat 14 16
+*
+Orkom
+K2
+Senin 11 13
+Jumat 13 15
+*
